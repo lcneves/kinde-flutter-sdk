@@ -44,8 +44,6 @@ flutter:
         pluginClass: KindeFlutterSdkPlugin
       ios:
         pluginClass: KindeFlutterSdkPlugin
-      linux:
-        pluginClass: KindeFlutterSdkPlugin
       macos:
         pluginClass: KindeFlutterSdkPlugin
         pluginPath: macos
